@@ -1,2 +1,2 @@
 # 24a
-Infornmation retrival period 24a
+Information retrival period 24a
