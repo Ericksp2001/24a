@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import messagebox, ttk
 
 def search_word(word):
-    directory = r"C:\Users\erick\OneDrive\Escritorio\RI\24a\task1\lib"  # Ruta fija del directorio
+    directory = r"C:\Users\erick\OneDrive\Escritorio\RI\24a\data"  # Ruta fija del directorio
     matching_files = []
     txt_files = [file for file in os.listdir(directory) if file.endswith(".txt")]
 
