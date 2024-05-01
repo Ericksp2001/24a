@@ -1,1 +1,1 @@
-matriz.csv filter=lfs diff=lfs merge=lfs -text
+inverted_index.csv filter=lfs diff=lfs merge=lfs -text
