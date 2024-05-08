@@ -1,0 +1,2 @@
+04_ranking.ipynb filter=lfs diff=lfs merge=lfs -text
+vect_normalized.csv filter=lfs diff=lfs merge=lfs -text
